@@ -73,19 +73,56 @@ layout: two-cols
 
 
 
+
 ---
-layout: default
+layout: image-left
+image: images/Edgar_F_Codd.jpg
 ---
 
 
-# test show on click
+# Edgar F. Codd
 
-Text 
-<v-click>
+- 19 August 1923
+- 18 April 2003 (aged 79)
+- Oxford, and then University of Michigan
+- Worked for IBM
 
-Hello World
 
-</v-click>
+---
+layout: image-left
+image: images/Edgar_F_Codd.jpg
+---
+
+
+# Edgar F. Codd knowns for...
+
+## knowns for...
+
+- Relational model
+- Codd's theorem
+- Database normalization
+- Boyce–Codd normal form
+- Alpha language
+- Codd's 12 rules
+- OLAP
+- Codd's cellular automaton
+
+---
+layout: image-left
+image: images/Edgar_F_Codd.jpg
+---
+
+# Awards
+
+- He was appointed IBM Fellow in 1976
+- Turing Award (1981)
+- 1994 he was inducted as a Fellow of the Association for Computing Machinery
+
+## Codd is now an award 
+
+- **SIGMOD Edgar F. Codd Innovations Award**
+: *is a lifetime research achievement award given by the ACM Special Interest Group on Management of Data*
+- The annual ACM SIGMOD Conference, which began in 1975, is considered one of the most important in the field of data management.
 
 ---
 layout: default
