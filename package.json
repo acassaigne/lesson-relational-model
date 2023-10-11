@@ -1,0 +1,16 @@
+{
+  "name": "lesson-relational-model",
+  "version": "1.0.0",
+  "description": "A short lesson about relational model.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Cassaigne",
+  "license": "ISC",
+  "dependencies": {
+    "@slidev/cli": "^0.43.7",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.3"
+  }
+}
