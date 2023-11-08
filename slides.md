@@ -1,3 +1,4 @@
+slidev
 ---
 theme: seriph
 background: ./images/bridge.jpg
@@ -25,7 +26,8 @@ layout: default
 
 - https://en.wikipedia.org/wiki/Hierarchical_database_model
 
-
+## draw 
+https://tex.stackexchange.com/questions/462914/how-to-create-an-er-diagram-using-tikzpicture-environment
 
 
 
@@ -86,6 +88,73 @@ image: images/Edgar_F_Codd.jpg
 - 18 April 2003 (aged 79)
 - Oxford, and then University of Michigan
 - Worked for IBM
+
+
+---
+layout: default
+---
+
+# Relational Algebra
+
+- Computer Science operate on data with type (integer, booelan, character, string...)
+- Attribue is constraint by a type
+
+- Relational Algebra define a domain = type 
+
+---
+layout: default
+---
+
+# A Relation
+
+Is  
+
+
+
+---
+layout: default
+---
+
+Algorithm normal forms
+https://vertabelo.com/blog/normalize-2nf-3nf/
+file:///home/20013523@hq.corp.leroymerlin.com/Downloads/Algorithm_for_Relational_Database_Normalization_Up.pdf
+
+---
+layout: default
+---
+
+# Try Latex
+
+
+$$
+\begin{array}{c}
+
+\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} &
+= \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
+
+\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
+
+\nabla \cdot \vec{\mathbf{B}} & = 0
+
+\end{array}
+$$
+
+
+---
+layout: default
+---
+
+# Try Mermaid
+
+$$
+\begin{center}
+\begin{tabular}{ c c c }
+ cell1 & cell2 & cell3 \\ 
+ cell4 & cell5 & cell6 \\  
+ cell7 & cell8 & cell9    
+\end{tabular}
+\end{center}
+$$
 
 
 ---
